@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Magontek
+- 👀 I’m interested in control, robotics and domotics.
+- 🌱 I’m currently learning javaScript, python and Lander
+- 📫 How to reach me: magontek@gmail.com
